@@ -1,0 +1,36 @@
+{
+  "name": "sgh-pages",
+  "version": "0.1.0",
+  "description": "static web app workflow",
+  "keywords": [
+    "sgh-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/shiguanghai/sgh-pages#readme",
+  "bugs": {
+    "url": "https://github.com/shiguanghai/sgh-pages/issues"
+  },
+  "license": "MIT",
+  "author": "shiguanghai <1932275668@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiguanghai/sgh-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
